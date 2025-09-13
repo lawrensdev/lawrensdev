@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giz</h1>
 <h3 align="center">I'm Minecraft & Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gizdev&label=Profile%20views&color=0e75b6&style=flat" alt="gizdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gizemmdev&label=Profile%20views&color=0e75b6&style=flat" alt="gizemmdev" /> </p>
 
 
 
